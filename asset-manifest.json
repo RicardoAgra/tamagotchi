@@ -1,0 +1,23 @@
+{
+  "main.css": "/tamagotchi/static/css/main.117a6078.chunk.css",
+  "main.js": "/tamagotchi/static/js/main.a0bd7c09.chunk.js",
+  "main.js.map": "/tamagotchi/static/js/main.a0bd7c09.chunk.js.map",
+  "runtime~main.js": "/tamagotchi/static/js/runtime~main.fdd2acfc.js",
+  "runtime~main.js.map": "/tamagotchi/static/js/runtime~main.fdd2acfc.js.map",
+  "static/js/2.5fef2b58.chunk.js": "/tamagotchi/static/js/2.5fef2b58.chunk.js",
+  "static/js/2.5fef2b58.chunk.js.map": "/tamagotchi/static/js/2.5fef2b58.chunk.js.map",
+  "index.html": "/tamagotchi/index.html",
+  "precache-manifest.7b76e1aa9c372cfb73e95601a7807c6f.js": "/tamagotchi/precache-manifest.7b76e1aa9c372cfb73e95601a7807c6f.js",
+  "service-worker.js": "/tamagotchi/service-worker.js",
+  "static/css/main.117a6078.chunk.css.map": "/tamagotchi/static/css/main.117a6078.chunk.css.map",
+  "static/media/crying.svg": "/tamagotchi/static/media/crying.a8fc3371.svg",
+  "static/media/happy.svg": "/tamagotchi/static/media/happy.e7631c0b.svg",
+  "static/media/logo.svg": "/tamagotchi/static/media/logo.280eb141.svg",
+  "static/media/moon.svg": "/tamagotchi/static/media/moon.5039864c.svg",
+  "static/media/neutral.svg": "/tamagotchi/static/media/neutral.4d39e029.svg",
+  "static/media/sad.svg": "/tamagotchi/static/media/sad.44bda2f3.svg",
+  "static/media/sick.svg": "/tamagotchi/static/media/sick.36612b79.svg",
+  "static/media/smiling.svg": "/tamagotchi/static/media/smiling.3e789fab.svg",
+  "static/media/sunny.svg": "/tamagotchi/static/media/sunny.02f11d1f.svg",
+  "static/media/super-happy.svg": "/tamagotchi/static/media/super-happy.1949bc13.svg"
+}
